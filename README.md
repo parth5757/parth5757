@@ -2,7 +2,7 @@
 - 👀 I’m interested in explore more things in python language
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.parththakkar.dev
+- 📫 How to reach me www.parththakkar.dev or me@parththakkar.dev
 
 <!---
 parth5757/parth5757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
