@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parth5757
 - 👀 I’m interested in explore more things in python language
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, AI-ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.parththakkar.dev or me@parththakkar.dev
 
