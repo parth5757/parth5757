@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @parth5757
-- 👀 I’m interested in explore more things in python language
-- 🌱 I’m currently learning Python, AI-ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.parththakkar.dev or me@parththakkar.dev
+[![Profile Views Count](https://profile-counter.glitch.me/parth5757/count.svg)](https://profile-counter.glitch.me/parth5757/count)
+# Hello 👋
 
-<!---
-parth5757/parth5757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Parth, a passionate developer exploring the vast world of Python and diving deep into AI & ML. My journey is fueled by curiosity and a love for problem-solving through code.
+
+## 📊 GitHub Stats
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth5757&show_icons=true&theme=tokyonight)
+
+
+## 🏆 Badges
+
+[![GitHub followers](https://img.shields.io/github/followers/parth5757?label=Follow&style=social)](https://github.com/parth5757)
+
+
+## 🚀 About Me
+
+- **🔭 Exploring:** Currently delving deeper into Python, AI, and Machine Learning to unlock new possibilities.
+- **💼 Experience:** Gained hands-on experience working on various projects that have honed my skills in Python and AI-ML technologies.
+- **🎯 Goals:** To contribute to open-source projects and collaborate with like-minded individuals to create impactful solutions.
+
+## 🛠 Skills
+
+- **Python:** Proficient in Python for web development(django) and machine learning.
+- **AI & ML:** Familiar with TensorFlow, PyTorch, and Keras for building intelligent systems.
+- **Web Development:** Experienced in Django and Flask frameworks.
+- **Frontend:** Experienced in React framwork with material UI 
+
+## 🌱 Projects
+
+Here are some of the projects I've worked on:
+
+- **Swan Tour:** An Tour management project for an tour agency.
+
+## 🖥️ Tools
+
+- **IDEs:** Visual Studio Code
+- **Version Control/Git:** Git, GitHub
+- **Cloud Platforms:** AWS
+
+## 🤝 Contributing
+
+Contributions are welcome Feel free to submit a pull request if you'd like to contribute to one of my projects. Please read the project's README for instructions on how to proceed.
+
+## 📫 Contact Me
+
+If you want to get in touch with me, you can reach me at:
+- Website: [www.parth.dev](http://www.parth.dev)
+- Email: me@parth.dev
+
