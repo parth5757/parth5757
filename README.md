@@ -54,6 +54,6 @@ Contributions are welcome Feel free to submit a pull request if you'd like to co
 ## 📫 Contact Me
 
 If you want to get in touch with me, you can reach me at:
-- Website: [www.parth.dev](http://www.parth.dev)
-- Email: me@parth.dev
+- Website: [www.parth.dev](http://www.parththakkar.dev)
+- Email: me@parththakkar.dev
 
