@@ -6,7 +6,7 @@ Profile Views
 I'm Parth, a passionate developer exploring the vast world of Python and diving deep into AI & ML. My journey is fueled by curiosity and a love for problem-solving through code.
 
 
-## 📊 GitHub Stats
+<!--##📊 GitHub Stats
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=parth5757&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -14,7 +14,7 @@ I'm Parth, a passionate developer exploring the vast world of Python and diving 
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth5757&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+ -->
 
 
 ## 🏆 Badges
