@@ -9,12 +9,11 @@ I'm Parth, a passionate developer exploring the vast world of Python and diving 
 ##📊 GitHub Stats
 <br>
 <div align=center>
-<img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=parth5757&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=480 src="https://github-readme-stats.vercel.app/api?username=parth5757&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=parth5757&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=300 src="https://github-readme-stats.vercel.app/api?username=parth5757&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth5757&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
-  <img width=300 height=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth5757&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-<!--   <br/> -->
-  <img width=700 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=parth5757&theme=merko" alt="top langs" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=parth5757&theme=merko" alt="top langs" />
 </div>
 
 ## 🏆 Badges
