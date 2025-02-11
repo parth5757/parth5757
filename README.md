@@ -53,6 +53,6 @@ Contributions are welcome Feel free to submit a pull request if you'd like to co
 ## 📫 Contact Me
 
 If you want to get in touch with me, you can reach me at:
-- Website: [www.parththakkar.dev](http://www.parththakkar.dev)
-- Email: me@parththakkar.dev
+- Website: [www.parththakkar.dev](http://www.parththakkar.in)
+- Email: me@parththakkar.in
 
