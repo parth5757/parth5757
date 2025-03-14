@@ -38,7 +38,7 @@ I'm Parth, a passionate developer exploring the vast world of Python and diving 
 
 Here are some of the projects I've worked on:
 
-- **Swan Tour:** An Tour management project for an tour agency.
+- **lekha:** An Accounting software for small indian SME
 
 ## 🖥️ Tools
 
