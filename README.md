@@ -42,13 +42,13 @@ Here are some of the projects I've worked on:
 
 ## 🖥️ Tools
 
-- **IDEs:** Visual Studio Code
-- **Version Control/Git:** Git, GitHub
-- **Cloud Platforms:** AWS
-
+- **IDEs:** Visual Studio Code, IDX, PyCharm
+- **Version Control/Git:** Git, GitHub, GitLab
+- **Cloud Platforms:** AWS, Utho
+- **Design tools:** Figma, blender
 ## 🤝 Contributing
 
-Contributions are welcome Feel free to submit a pull request if you'd like to contribute to one of my projects. Please read the project's README for instructions on how to proceed.
+I want you to know that contributions are welcome Feel free to submit a pull request if you'd like to contribute to one of my projects. Please read the project's README for instructions on how to proceed.
 
 ## 📫 Contact Me
 
